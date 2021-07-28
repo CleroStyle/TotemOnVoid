@@ -1,0 +1,7 @@
+main: ru.clerostyle.totem.Main
+name: TotemOnVoid
+version: 1.0
+author: CleroStyle
+api-version: 1.16
+commands:
+  totemonvoid:
